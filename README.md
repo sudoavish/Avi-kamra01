@@ -5,7 +5,7 @@ Greetings! 👋 I'm Avish Kamra, a computer science enthusiast currently pursuin
 
 # Skills
  - Languages: Python, Java, Solidity, JavaScript, C
- - Web Development: HTML, CSS, Bootstrap, Tailwind
+ - Web Development: HTML, CSS, Bootstrap, Tailwind, Javascript, React, Express
  - Database Management: MySQL, MongoDB
  - Blockchain: Solidity
 
